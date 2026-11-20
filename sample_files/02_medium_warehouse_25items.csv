@@ -1,0 +1,26 @@
+product_id,name,weight,profit,category
+P001,Groceries Unit #1,14,372.09,Groceries
+P002,Furniture Unit #2,31,230.33,Furniture
+P003,Groceries Unit #3,16,417.59,Groceries
+P004,Appliances Unit #4,23,576.63,Appliances
+P005,Appliances Unit #5,12,145.22,Appliances
+P006,Furniture Unit #6,14,234.89,Furniture
+P007,Hardware Unit #7,27,377.45,Hardware
+P008,Apparel Unit #8,21,249.59,Apparel
+P009,Groceries Unit #9,23,492.58,Groceries
+P010,Apparel Unit #10,26,264.52,Apparel
+P011,Hardware Unit #11,28,186.14,Hardware
+P012,Groceries Unit #12,8,106.81,Groceries
+P013,Hardware Unit #13,25,179.23,Hardware
+P014,Appliances Unit #14,4,83.99,Appliances
+P015,Appliances Unit #15,27,565.81,Appliances
+P016,Furniture Unit #16,38,595.99,Furniture
+P017,Groceries Unit #17,21,492.34,Groceries
+P018,Groceries Unit #18,2,62.76,Groceries
+P019,Groceries Unit #19,24,435.56,Groceries
+P020,Apparel Unit #20,9,219.34,Apparel
+P021,Groceries Unit #21,31,666.01,Groceries
+P022,Appliances Unit #22,14,349.17,Appliances
+P023,Apparel Unit #23,10,86.74,Apparel
+P024,Furniture Unit #24,23,301.68,Furniture
+P025,Groceries Unit #25,24,365.72,Groceries

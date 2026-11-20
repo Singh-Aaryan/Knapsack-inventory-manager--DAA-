@@ -1,0 +1,6 @@
+Dataset,Items (N),Capacity (W),Greedy Profit,DP 0/1 Profit,Profit Gap,Greedy Time (ms),DP Time (ms),Greedy Mem (KB),DP Mem (KB),DP Utilization (%)
+01_small_warehouse_8items.csv,8,50,306.0,301.0,5.0,0.1039,0.3651,3.66,8.77,98.0
+02_medium_warehouse_25items.csv,25,150,3584.26,3548.31,35.95,0.1059,3.0171,2.64,65.2,99.33
+03_standard_warehouse_50items.csv,50,300,7535.07,7516.98,18.09,0.2323,14.8244,4.87,250.8,100.0
+04_large_warehouse_100items.csv,100,600,14211.43,14203.63,7.8,0.442,99.2511,9.75,1062.1,100.0
+05_enterprise_warehouse_200items.csv,200,1200,30354.9,30341.74,13.16,1.2147,431.9382,17.53,4584.07,100.0

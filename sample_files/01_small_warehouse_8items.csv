@@ -1,0 +1,9 @@
+product_id,name,weight,profit,category
+P001,Smart LED TV,10,60.0,Electronics
+P002,Gaming Laptop,20,100.0,Electronics
+P003,Home Refrigerator,30,120.0,Appliances
+P004,Wireless Earbuds,5,45.0,Electronics
+P005,Ergonomic Chair,15,75.0,Furniture
+P006,Microwave Oven,12,66.0,Appliances
+P007,Mechanical Keyboard,4,38.0,Electronics
+P008,Air Purifier,18,92.0,Appliances
